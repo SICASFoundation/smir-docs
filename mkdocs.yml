@@ -1,0 +1,17 @@
+site_name: smir docs
+pages:
+    - Home: index.md
+    - User Guide: 
+        - Web: usage/web.md
+        - API: usage/api.md
+    - Technical Documentation:
+        - Supported Data: filetypes.md
+    - FAQ: faq.md
+    - About: 
+        - About: about/about.md
+        - Help: about/support.md
+theme: readthedocs
+site_author: Michael Kistler
+extra:
+    version:0.1
+    
