@@ -1,4 +1,4 @@
- ![smir-with-name-shor-logo](assets/smir-with-name-shor-logo.png)
+ ![smir logo](assets/smir-logo-90dpi.png)
 
 ## Getting Started
 
