@@ -1,6 +1,9 @@
+
+
 # User Account
 
 ## Account Registration
+
 1. Fill the registration form on the [registration page](https://www.smir.ch/Account/Register). Select the appropriate Research Unit. If you need to register a Research Unit, please follow the step in [research unit registration section](#research-unit-registration).
 2. Accept the [End User License Agreement](https://www.smir.ch/Home/TermsAndConditions) using the checkbox
 3. Complete the Captcha
@@ -83,7 +86,7 @@ unit/group where you are the research unit administrator. This request
 is pending until you login to your VSD account and accept/reject the 
 user 
 
-### Change administrator
+### Change Administrator
 
 ## Research Unit Registration
 
@@ -96,9 +99,13 @@ user
 
 ## Join a Research Unit
 
+
+
 ## Request Research Unit deletion
 
-## User Administration
+
+
+## User administration
 
 
 
