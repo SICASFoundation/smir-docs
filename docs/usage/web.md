@@ -7,7 +7,7 @@
 3. Complete the Captcha
 4. Submit 
 5. The Administrator of the Research Unit receive your request and has to process it. This is a manual processes. Please allow up to 7 days for this step. 
-6. You will receive an email with your login credentials consisting of the email used for registration and an initial password. Follow the instruction in the [password change section](#password-change) to change the initial password
+6. You will receive an email with your login credentials consisting of the email used for registration and an initial password. Follow the instruction in the [password change section](#password-change) to change the initial password![smir-registration-user](../assets/smir-registration-user.png)
 
 ## Account setup
 
@@ -106,10 +106,14 @@ Please use the [ticket system](https://www.smir.ch/support) to request a Researc
 
 1. Fill the online [registration formular](https://podio.com/webforms/7358442/593063). Make sure to accurately fill the fields, including an accessable website. If you fail to do so your request will not be processed.
 2. Wait for the SMIR Admin to check your submission and to setup your Research Unit. This is a manual process and can take up to 7 days.
+   ![smir-registration-ru](../assets/smir-registration-ru.png)
 3. You will receive an email once the Research Unit has been created.
 4. Next
-   1. If you do not have an account on SMIR, please continue with the description in the [user registration section](#account-registration)
-   2. If you already have an account on SMIR, please follow the instruction in the [join a research unit](#join-a-research-unit)
+   1. If you do not have an account on SMIR, please continue with the description in the [user registration section](#account-registration). After registration, the SMIR administrator will accept your request and set you as Research Unit Administrator
+      ![smir-registration-rua](../assets/smir-registration-rua.png)
+   2. If you already have an account on SMIR, the SMIR administrator set you a you as Research Unit Administrator of this group. But your are not a member of the group automatically. To join your group, please follow the instruction in the [join a research unit](#join-a-research-unit). 
+
+
 
 ## Join a Research Unit
 
@@ -292,9 +296,9 @@ The user can change the license in a object list view or on the object's detail 
 
 1. Login
 2. Select the object and click on `Manage selected` and then `License`
-![smir-batch-license1](../assets/smir-batch-license1.png)
+   ![smir-batch-license1](../assets/smir-batch-license1.png)
 3. Select the license from the drop-down menu in the modal
-![smir-batch-license-modal](../assets/smir-batch-license-modal.png)
+   ![smir-batch-license-modal](../assets/smir-batch-license-modal.png)
 4. `Set license` to change/save or `cancel` to abort
 
 ##  Preview Images
@@ -304,6 +308,16 @@ SMIR generates for Images and model a set of up to 10 preview images to give a g
 ## Files
 
 The actual data is not displayed/accessable on SMIR. To use the data set, download the object. However, the list of included files in an object is displayed. 
+
+## Object download
+
+Download are wrapped in a directory contains the following files and downloaded as compressed archive (zip)
+
+- Data files
+- Meta data file: `*.json`
+- Readme `README.md`
+- SMIR citation as Bibtex: `smir.bib`
+- License: `License_*.txt`
 
 ## Object lists
 
@@ -320,3 +334,5 @@ The actual data is not displayed/accessable on SMIR. To use the data set, downlo
 ## Advanced search
 
 # Folders
+
+## Folder download
